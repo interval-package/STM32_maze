@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "*.cjson": "jsonc",
+        "*.wxss": "css",
+        "*.wxs": "javascript",
+        "stm32h7xx.h": "c",
+        "maze.h": "c",
+        "systick.h": "c",
+        "usart.h": "c",
+        "tft_driver.h": "c",
+        "gui_ext.h": "c",
+        "key.h": "c",
+        "led.h": "c"
+    },
+    "files.encoding": "gb18030",
+    "latex-workshop.message.convertFilenameEncoding": true,
+    "files.autoGuessEncoding": true
+}
